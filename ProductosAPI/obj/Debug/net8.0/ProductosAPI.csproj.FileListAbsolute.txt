@@ -1,0 +1,136 @@
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\ProductosAPI.exe
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\ProductosAPI.deps.json
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\ProductosAPI.runtimeconfig.json
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\ProductosAPI.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\ProductosAPI.pdb
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\ProductosAPI.csproj.AssemblyReference.cache
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\ProductosAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\ProductosAPI.AssemblyInfoInputs.cache
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\ProductosAPI.AssemblyInfo.cs
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\ProductosAPI.csproj.CoreCompileInputs.cache
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\ProductosAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\ProductosAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\staticwebassets\msbuild.ProductosAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductosAPI.props
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductosAPI.props
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductosAPI.props
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\scopedcss\bundle\ProductosAPI.styles.css
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\Producto.5CEC0815.Up2Date
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\ProductosAPI.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\refint\ProductosAPI.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\ProductosAPI.pdb
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\ProductosAPI.genruntimeconfig.cache
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\obj\Debug\net8.0\ref\ProductosAPI.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\Dapper.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\dzambrano\Desktop\API\ASP.NET\ProductosAPI\ProductosAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\ProductosAPI.exe
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\ProductosAPI.deps.json
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\ProductosAPI.runtimeconfig.json
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\ProductosAPI.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\ProductosAPI.pdb
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\Dapper.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\ProductosAPI.csproj.AssemblyReference.cache
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\ProductosAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\ProductosAPI.AssemblyInfoInputs.cache
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\ProductosAPI.AssemblyInfo.cs
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\ProductosAPI.csproj.CoreCompileInputs.cache
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\ProductosAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\ProductosAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\staticwebassets\msbuild.ProductosAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ProductosAPI.props
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProductosAPI.props
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProductosAPI.props
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\scopedcss\bundle\ProductosAPI.styles.css
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\ProductosAPI.csproj.CopyComplete
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\ProductosAPI.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\refint\ProductosAPI.dll
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\ProductosAPI.pdb
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\ProductosAPI.genruntimeconfig.cache
+C:\Users\jcisnero\Desktop\Codes\entrenamiento\back-end\MVC DAPPER\-api_asp_net_dapper_crud_MVC-main\ProductosAPI\obj\Debug\net8.0\ref\ProductosAPI.dll
